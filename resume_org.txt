@@ -1,0 +1,80 @@
+﻿Professional Summary
+Motivated and detail-oriented backend developer with over 4 years of experience designing, developing, and optimizing scalable web applications and APIs. Proficient in multiple backend technologies and frameworks, with a strong focus on creating efficient, secure, and user-friendly systems. Adept at collaborating with cross-functional teams and ensuring seamless integration of frontend and backend systems.
+________________
+
+
+Technical Skills
+Programming Languages: Python, JavaScript, Java, C++
+Backend Frameworks: Node.js, Django, Flask, Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB, DynamoDB, MS SQL
+Cloud & DevOps: AWS (EC2, S3, Lambda, Amplify), Azure (Blob Storage, Data Factory), Docker, Kubernetes
+APIs: RESTful APIs, GraphQL, API Gateway
+Tools & Technologies: Git, Jenkins, Hibernate, JDBC, Postman
+Other: Microservices Architecture, Performance Optimization, Agile Methodologies
+________________
+
+
+Professional Experience
+Software Development Engineer-2
+Applied Bell Curve
+Bangalore, India
+February 2023 – August 2024
+* Designed and developed the flagship dashboard for subscribed users with a seamless integration of frontend and backend.
+* Built and maintained backend services using Python and Flask, ensuring high performance and scalability.
+* Created secure and efficient RESTful APIs for various modules, including forecasting, inventory, and deckle optimizer.
+* Integrated AWS services such as Amplify and Cognito for user authentication and data management.
+* Optimized the web application’s performance by implementing lazy loading and modular subdomain approaches.
+ETL Developer
+Wipro Technologies
+Hyderabad, India
+July 2019 – January 2023
+* Developed and managed ETL pipelines using SSIS, Azure Data Factory, and SAP BODS to ensure seamless data integration.
+* Designed workflows to process and analyze large datasets stored in Azure Blob Storage.
+* Streamlined data operations by optimizing SQL queries and implementing database management practices.
+* Collaborated with cross-functional teams to ensure the accuracy and timeliness of data delivery.
+* Awarded the "Hulk Award" for exceptional hard work and project completion.
+________________
+
+
+Education
+Master of Science in Computer Science
+University at Buffalo, The State University of New York
+Buffalo, NY
+August 2024 – Present
+Bachelor of Technology in Computer Science
+[Your Undergraduate Institution Name]
+India
+Graduation Year: YYYY
+________________
+
+
+Projects
+3D Mario-Themed Portfolio Website
+* Built an interactive portfolio website using React and Three.js, featuring 3D objects and game-like navigation.
+* Implemented dynamic user interactions and animations to enhance user experience.
+Job Scheduling Algorithm
+* Designed an optimized solution for job scheduling with deadlines and profits using C++.
+* Improved performance and reduced computation time for large datasets.
+Optimal Page Replacement Algorithm
+* Developed a simulation to study cache misses and replacements using future access patterns.
+________________
+
+
+Certifications
+* AWS Certified Developer – Associate
+* Microsoft Azure Data Engineer Associate
+* Certified Kubernetes Application Developer (CKAD)
+________________
+
+
+Achievements
+* Published research in IEEE Conference under Professor Angalaeswari.
+* Collaborated with IIT Kanpur and NGO Shikhasopan to provide scholarships and develop web applications.
+________________
+
+
+Interests
+* High-Frequency Trading (HFT) concepts
+* Competitive Programming
+* Music Composition (organized events as part of a music club)
+________________
